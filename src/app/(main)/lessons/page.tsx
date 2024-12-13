@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import LessonCard from "@/components/custom/LessonCard";
 import { getAllLessons } from "@/services/LessonServices";
 import ILesson from "@/types/lesson.types";

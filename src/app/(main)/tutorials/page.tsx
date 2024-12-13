@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import { Card, CardHeader } from "@/components/ui/card";
 import { getAllTutorials } from "@/services/TutorialServices";
 

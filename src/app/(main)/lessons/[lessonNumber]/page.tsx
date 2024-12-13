@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import { getLessonById } from "@/services/LessonServices";
 import { getVocabulary } from "@/services/VocabularyServices";
 import LessonDetail from "./LessonDetail";
